@@ -5,8 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npm install --force && vite build",
-    "preview": "vite preview"
+    "build": "npm install --legacy-peer-deps && vite build",
+    "serve": "vite preview",
+    "start": "npm run serve"
   },
   "dependencies": {
     "@emotion/react": "^11.10.5",
