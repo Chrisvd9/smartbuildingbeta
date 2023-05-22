@@ -3,6 +3,8 @@ Smartbuilding es un proyecto realizado para Morris &amp; Opazo. Es un IoT para u
 
 Se utilizó React, Redux, TailwindCSS, leaflet, recharts, formik y yup. 
 
+(** INICIA SESIÓN EN EL PROYECTO PARA VER EL DASHBOARD **)
+
 :point_right: [Live preview](https://646bfb45bb73ac0bdb420f9e--quiet-parfait-2a20cb.netlify.app/)
 
 Imagen 1:
